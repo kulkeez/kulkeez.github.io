@@ -2,7 +2,7 @@
 Namaste!
 ===================
 
-Halo! I'm all charged up - this is my first Markdown document and I am using the **StackEdit**[^stackedit] in-browser mark down editor. 
+Halo! I'm all charged up - this is my first Markdown document and I am using the **[StackEdit](https://stackedit.io/editor)** in-browser mark down editor. 
 
 ----------
 
